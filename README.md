@@ -1,7 +1,5 @@
-###Hi, I'm Luís Santos
 
-👨🏻‍💻I'm currently in the second year of my Degree in Informatics Engineering at FEUP
-📚 Interested in Competitive Programming and Mathematics
+### Hi, I'm Luís Santos
 
 # 💫 About Me:
 👨🏻‍💻I'm currently in the second year of my Degree in Informatics Engineering at FEUP<br>📚 Interested in Competitive Programming and Mathematics
