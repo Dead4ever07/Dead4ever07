@@ -16,12 +16,12 @@
 
   
 <h2 align = "center" >Projects</h2>
-<p align = "center">
+<div align = "center" >
   
 | UC   | Name      | Description                                                                                                                                                   | Grade (/20) |
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
 |LTW   |[Chicken    ](https://github.com/FEUP-LDTS-2024/project-t09g03)|Java game created using lanterna library. Copy of Gravity Guy game.                                        |     17      |
 
-</p>
+</div>
 
 <h3 align = "center" ><a href="mailto:up202306823@up.pt">Contact me!</a></h3>
