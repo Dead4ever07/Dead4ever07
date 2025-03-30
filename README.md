@@ -11,7 +11,7 @@
 <p align = "center">
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=Dead4ever07&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
 <img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=Dead4ever07&theme=dark&hide_border=false">
-<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Dead4ever07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Dead4ever07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
   
